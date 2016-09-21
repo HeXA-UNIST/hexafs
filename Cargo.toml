@@ -1,0 +1,7 @@
+[package]
+name = "hexafs"
+version = "0.1.0"
+authors = ["phynalle"]
+
+[dependencies]
+
